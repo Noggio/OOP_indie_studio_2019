@@ -1,0 +1,18 @@
+00000000000000000000000000
+01 xxxxxxxxxxxxxxxxxxxx 30
+0 xxxxxxxxxxxxxxxxxxxxxx 0
+0xxxxxxx000xxxxxxxxxxxxxx0
+0xxxxxxxxxxxxxxxxxxxxxxxx0
+0xxxxxxxx0xxxxxxxxxxxxxxx0
+0xxxxxxxxxxxxxxx00xxxxxxx0
+00xxxxxxxxxxxxxxxxxxx0xxx0
+0xxxxxxxxx00xxxxxxx0xxxxx0
+0xxxxxxxxxxxxxxxxx0xxxxxx0
+0xxx0xxxxxxxxxxxxxxxxxxxx0
+0xxxxxxxxxxxxxxxxxxxxxxxx0
+0xxxxxxxx0xxxxxxxxxxxxxxx0
+0xxxxxxxx0xxxxxxxxxxxxxxx0
+0xxxxxxxxxxxxxxxxxxxxxxxx0
+0 xxxxxxxxxxxxxxxxxxxxxx 0
+02 xxxxxxxx000xxxxxxxxx 40
+00000000000000000000000000
